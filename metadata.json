@@ -1,0 +1,6 @@
+{
+  "name": "DJ Board and Music Timeline",
+  "description": "An interactive music workspace featuring synthesized drum pads, real-time effects (scratch vinyl stop, echo, delay, reverb, pitch bend), 20 custom recordable blocks, and a BandLab-style timeline sequencer with download support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
